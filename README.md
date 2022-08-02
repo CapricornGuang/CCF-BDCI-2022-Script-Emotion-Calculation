@@ -6,7 +6,7 @@ The data comes from the CCF competition [爱奇艺剧本情感识别](https://ww
 
 ## Thought
 
-Aspect based emotion analysis is a rather complex task. In this competition, We transform this task to a Question-Answer problem. The material is the sentences and the question "What's the emotion of XXX"
+Aspect based emotion analysis is a rather complex task. In this competition, we employ a promote engining, where we construct sentences like "What's the emotion of XXX".
 
 ## Our Model
 
